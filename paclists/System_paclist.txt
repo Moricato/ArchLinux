@@ -1,0 +1,17 @@
+haveged
+yt-dlp
+flatpak
+neofetch
+fastfetch
+upower
+htop
+iwd
+openssh
+smartmontools
+wget
+curl
+firewalld
+wireless tools
+wpa_supplicant
+xdg-utils
+whois

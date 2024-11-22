@@ -1,0 +1,8 @@
+dkms
+nvidia-dkms
+xorg-server
+xorg-xinit
+xorg-xkill
+xterm
+nvidia-utils
+nvidia-settings
