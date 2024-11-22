@@ -4,5 +4,6 @@ xorg-server
 xorg-xinit
 xorg-xkill
 xterm
+eglexternalplatform
 nvidia-utils
 nvidia-settings

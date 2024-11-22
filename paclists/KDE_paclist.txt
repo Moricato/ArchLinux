@@ -1,6 +1,5 @@
 ark
 dolphin
-egl-wayland
 konsole
 kwrite
 networkmanager-qt
